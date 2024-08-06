@@ -1,10 +1,7 @@
 #### Hi!✨ I'm Irina, backend-developer
 
-+ Yandex.Practikum graduate
-+ Master in Computer Science
 + Algorithm's theory fan
-
-**Technology stack:** Python, Django, DRF, PostgreSQL, SQLite, Docker, Nginx, Yandex.Cloud, Unittest
++ Master in Computer Science
 
 <!--
 **ika11ika/ika11ika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
